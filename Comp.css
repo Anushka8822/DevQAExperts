@@ -1,0 +1,49 @@
+
+.one{
+    /* border: 1px solid #000; */
+    
+    width: 500px;
+    padding: 10px;
+    background-color: #b6a4c2;
+}
+.two{
+    /* border: 1px solid #000; */
+    
+    width: 400px;
+    margin-left: 400px;
+   
+
+}
+.three{
+    /* border: 1px solid #000; */
+    
+    width: 500px;
+    padding: 10px;
+}
+.four{
+    /* border: 1px solid #000; */
+    width: 500px;
+    padding: 10px;
+}
+.five{
+    /* border: 1px solid #000; */
+    
+    width: 500px;
+    padding: 15px;
+}
+
+.one-container{
+    
+    display: flex;
+    /* background-color: #7e62b4; */
+    
+    
+}
+
+input{
+    color: #000;
+    background: white;
+    border-radius: 8px;
+    width: 100%;
+    padding: 6px;
+  }
